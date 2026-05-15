@@ -6,3 +6,9 @@ The project is a Ms Excel dashboard designed to create an annual sales report fo
 - Pivot Tables
 - Pivot Charts
 - Dashboard Design
+
+## Objectives
+- Create an annual sales report for 2022
+- Enable employees to understand customers' behavior
+- Facilitate informed strategies for driving sales growth
+  
