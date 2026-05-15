@@ -12,3 +12,5 @@ The project is a Ms Excel dashboard designed to create an annual sales report fo
 - Enable employees to understand customers' behavior
 - Facilitate informed strategies for driving sales growth
   
+## Questions Addressed
+1. 
