@@ -36,3 +36,6 @@ Target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar 
 
 ## Dashboard Preview
 [Download the Excel Dashboard](Vrinda%20Store%20Data%20Analysis.xlsx)
+
+## Dashboard Preview
+![Dashboard](dashboard snapshot.png)
