@@ -1,5 +1,5 @@
 # Vrinda-Store-Interactive-Ms-Excel-Dashboard
-The project is a Ms Excel dashboard designed to create an annual sales report for 2022, providing real-time progress and sales insights for the employees and owner of Vrinda Store. 
+The project is a Microsoft Excel dashboard designed to create an annual sales report for 2022, providing real-time progress and sales insights for the employees and owner of Vrinda Store. 
 
 ## Tools Used
 - Microsoft Excel
@@ -32,7 +32,7 @@ The project is a Ms Excel dashboard designed to create an annual sales report fo
 Target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh by utilizing ads, offers, and coupons available on Amazon, Flipkart, and Myntra. This strategy aims to improve sales at Vrinda Store.
 
 ## Files Included
--Vrinda Store Data Analysis.xlsx
+- Vrinda Store Data Analysis.xlsx
 
 ## Dashboard Preview
 [Download the Excel Dashboard](Vrinda%20Store%20Data%20Analysis.xlsx)
