@@ -32,5 +32,6 @@ The project is a Ms Excel dashboard designed to create an annual sales report fo
 Target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh by utilizing ads, offers, and coupons available on Amazon, Flipkart, and Myntra. This strategy aims to improve sales at Vrinda Store.
 
 ## Files Included
+-Vrinda Store Data Analysis.xlsx
 
-
+## Dashboard Preview
