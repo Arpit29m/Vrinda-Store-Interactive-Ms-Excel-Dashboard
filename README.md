@@ -23,12 +23,12 @@ The project is a Microsoft Excel dashboard designed to create an annual sales re
 8. Identification of the highest selling category
 
 ## Key Insights
-- Women contributed the majority of sales(64%).
+- Women contributed 64% of total sales.
 - Adult age group generated the highest revenue(50%).
-- Amazon, Flipkart and Myntra were the top-performing sales channels(80%).
+- Amazon, Flipkart, and Myntra accounted for nearly 80% of total sales.
 - Maharashtra generated the highest sales among all states.
 
-## Final Conclusion and Recommendations
+## Conclusion and Recommendations
 Target women customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh by utilizing ads, offers, and coupons available on Amazon, Flipkart, and Myntra. This strategy aims to improve sales at Vrinda Store.
 
 ## Files Included
